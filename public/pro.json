@@ -1,0 +1,104 @@
+[
+      {
+        "productName": "Apple iPhone 14 Pro",
+        "productImage": "https://rmtibd.com/wp-content/uploads/2022/09/1-2.jpg",
+        "description": "128GB, Deep Purple, A16 Bionic chip, Super Retina XDR display.",
+        "price": 999,
+        "category": "Electronics",
+        "ratings": 4.8,
+        "productCreationDate": "2024-12-15",
+        "brand": "Apple"
+      },
+      {
+        "productName": "Nike Air Max 270",
+        "productImage": "https://static.nike.com/a/images/t_default/gorfwjchoasrrzr1fggt/AIR+MAX+270.png",
+        "description": "Men's running shoes with responsive cushioning and bold design.",
+        "price": 150,
+        "category": "Footwear",
+        "ratings": 4.7,
+        "productCreationDate": "2024-12-10",
+        "brand": "Nike"
+      },
+      {
+        "productName": "Samsung Galaxy S23 Ultra",
+        "productImage": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-s918bzkgmea/gallery/levant-galaxy-s23-ultra-s918-sm-s918bzkgmea-531404504",
+        "description": "256GB, Phantom Black, advanced camera system, S Pen included.",
+        "price": 1200,
+        "category": "Electronics",
+        "ratings": 4.9,
+        "productCreationDate": "2024-12-08",
+        "brand": "Samsung"
+      },
+      {
+        "productName": "Dell XPS 13 Laptop",
+        "productImage": "https://www.dell.com/sites/imagecontent/products/pdp/xps-13-9310-laptop-gal-01.png",
+        "description": "13.3-inch FHD display, Intel Core i7, 16GB RAM, 512GB SSD.",
+        "price": 1350,
+        "category": "Computers",
+        "ratings": 4.6,
+        "productCreationDate": "2024-12-05",
+        "brand": "Dell"
+      },
+      {
+        "productName": "Sony WH-1000XM5",
+        "productImage": "https://cdn.sony.com/images/products/sony-mdr-1000xm5.jpg",
+        "description": "Wireless noise-canceling headphones with superior audio quality.",
+        "price": 400,
+        "category": "Accessories",
+        "ratings": 4.8,
+        "productCreationDate": "2024-12-03",
+        "brand": "Sony"
+      },
+      {
+        "productName": "Adidas Ultraboost 22",
+        "productImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ultraboost-22-shoes-black-fy0377.jpg",
+        "description": "High-performance running shoes with Boost technology.",
+        "price": 180,
+        "category": "Footwear",
+        "ratings": 4.7,
+        "productCreationDate": "2024-12-02",
+        "brand": "Adidas"
+      },
+      {
+        "productName": "Amazon Echo Dot (5th Gen)",
+        "productImage": "https://m.media-amazon.com/images/I/61JIHo5kAqL._AC_UY500_.jpg",
+        "description": "Smart speaker with Alexa, improved sound quality.",
+        "price": 50,
+        "category": "Smart Home",
+        "ratings": 4.5,
+        "productCreationDate": "2024-12-01",
+        "brand": "Amazon"
+      },
+      {
+        "productName": "Canon EOS R5 Camera",
+        "productImage": "https://www.usa.canon.com/image/img/eosr5-product.jpeg",
+        "description": "45MP full-frame mirrorless camera, 8K video recording.",
+        "price": 3899,
+        "category": "Photography",
+        "ratings": 4.9,
+        "productCreationDate": "2024-11-30",
+        "brand": "Canon"
+      },
+      {
+        "productName": "Fitbit Versa 4",
+        "productImage": "https://static.fitbit.com/versatile-smartwatch-product.jpg",
+        "description": "Advanced fitness smartwatch with heart rate monitoring.",
+        "price": 229,
+        "discount":10,
+        "category": "Wearables",
+        "ratings": 4.6,
+        "productCreationDate": "2024-11-28",
+        "brand": "Fitbit"
+      },
+      {
+        "productName": "Logitech MX Master 3S",
+        "productImage": "https://resource.logitech.com/product-image/mx-master-3s.jpg",
+        "description": "Advanced ergonomic wireless mouse with precision tracking.",
+        "price": 99,
+        "category": "Accessories",
+        "ratings": 4.8,
+        "productCreationDate": "2024-11-25",
+        "brand": "Logitech"
+      }
+    ]
+    
