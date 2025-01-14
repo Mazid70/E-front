@@ -1,7 +1,6 @@
 import React from "react";
 import { CiUser } from "react-icons/ci";
 import { PiTruckLight } from "react-icons/pi";
-
 const Navone = () => {
   return (
     <header className="bg-[#F9F9F9] border-b-1 border">
